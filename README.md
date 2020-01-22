@@ -26,7 +26,6 @@
 
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`react-native`](https://facebook.github.io/react-native/docs/getting-started)
-- [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
 - [`Backend TaniBox`](https://github.com/reihnagm/TaniBox-Backend)
 
 ## Usage for development
